@@ -13,7 +13,7 @@
 <img src="img/ElizabethDeco.jpg">
 <img src="img/ProyectoColaborativo.jpg">
 <img src="img/Front-ARGProg.jpg">
-<img src="img/api_rest.png.jpg">
+<img src="img/api_rest.png">
 
 
 
