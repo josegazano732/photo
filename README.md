@@ -7,6 +7,7 @@
 <img src="img/comercio3.png">
 <img src="img/HTML.jpg">
 <img src="img/CSS.jpg">
+<img src="img/primeraE.jpg">
 
 <img src="img/BlogCafe.jpg">
 <img src="img/bienesraices.jpg">
